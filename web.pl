@@ -33,7 +33,6 @@ __DATA__
 
     <script>
         function to_numbers(array) {
-            console.debug(array);
             return _.map(array, Number);
         }
 
