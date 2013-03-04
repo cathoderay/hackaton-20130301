@@ -1,9 +1,9 @@
-hackaton-20130301
-=================
+hackaton-20130301 (vsdash)
+==========================
 
-db->chart
+Aim: plot chart based on a mysql query.
 
 
 running
 =======
-perl web.pl daemon
+    perl web.pl daemon
